@@ -71,6 +71,13 @@ a {
   .page-header {
     padding: 2rem 1rem; } }
 
+.project-logo {
+  background: url("../img/logo.svg");
+  background-size: 120px 120px;
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 120px; }
+
 .project-name {
   margin-top: 0;
   margin-bottom: 0.1rem; }
