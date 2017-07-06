@@ -1,1 +1,2 @@
-* @andrewda @Scoutomic/test-secret @Scoutomic/test-public
+*       @Scoutomic/test-public @Scoutomic/test-secret 
+*.html  @Scoutomic/test-public @Scoutomic/test-secret 
